@@ -157,7 +157,7 @@ session_start();
   <div class="container">
   
   <ul class="nav navbar-nav navbar-left">
-    <li><a href="http://www.bulbulahmed.net/"> Developed by Bulbul Ahmed</a></li>
+    <li><a href="http://www.bulbulahmed.net/"> Developed by Bulbul Ahmed Akash</a></li>
       
 	</ul>
 
